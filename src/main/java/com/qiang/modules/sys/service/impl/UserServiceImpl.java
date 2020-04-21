@@ -15,13 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service.impl
- * @Description:
- * @Date: 2019/6/20 0020 11:26
- **/
+
 @Service
 public class UserServiceImpl implements UserService {
 
@@ -183,7 +177,7 @@ public class UserServiceImpl implements UserService {
 
     }
 
-    @Transactional(propagation = Propagation.SUPPORTS)
+    @Transactional(propagation = Propagation.SUPPORTS) //如果其他bean调用这个方法,在其他bean中声明事务,那就用事务.如果其他bean没有声明事务,那就不用事务
     @Override
     public UsersVOEntity findUsersByPhone(String phone) {
         return usersLoginDao.findByPhone(phone);

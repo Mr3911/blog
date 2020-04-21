@@ -7,11 +7,7 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.common.utils
  * @Description: 文件上传工具类
- * @Date: 2019/7/31 0031 19:20
  **/
 public class FileUtil {
 

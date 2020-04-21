@@ -16,11 +16,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.common.config
  * @Description: durid数据源配置
- * @Date: 2019/6/27 0027 17:24
  **/
 
 @Configuration
@@ -44,7 +40,7 @@ public class DruidConfig {
         initParams.put("loginUsername", "admin");
         initParams.put("loginPassword", password);
         initParams.put("allow", "");//默认就是允许所有访问
-        initParams.put("deny", "192.168.203.8");
+        initParams.put("deny", "127.0.0.1");
         bean.setInitParameters(initParams);
         return bean;
     }

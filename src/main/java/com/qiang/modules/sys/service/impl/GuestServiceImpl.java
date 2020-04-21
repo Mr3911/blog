@@ -19,11 +19,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service.impl
  * @Description: 留言业务逻辑层
- * @Date: 2019/7/24 0024 17:31
  **/
 @Service
 public class GuestServiceImpl implements GuestService {

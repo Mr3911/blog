@@ -3,13 +3,7 @@ package com.qiang.modules.sys.service;
 import com.qiang.common.utils.PagedResult;
 import com.qiang.modules.sys.entity.FriendurlEntity;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
- * @Description:
- * @Date: 2019/8/2 0002 18:00
- **/
+
 public interface AdminService {
 
 

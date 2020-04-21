@@ -4,8 +4,6 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 
 /**
- * @author: qiang
- * @Date: 2018/7/22 21:17
  * Describe: 转码工具
  */
 public class TransCodingUtil {

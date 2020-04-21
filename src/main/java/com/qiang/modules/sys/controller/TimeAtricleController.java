@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.controller
  * @Description: 时间查询文章
- * @Date: 2019/7/10 0010 17:41
  **/
 @RestController
 public class TimeAtricleController {

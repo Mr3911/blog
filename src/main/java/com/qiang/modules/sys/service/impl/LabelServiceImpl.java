@@ -16,11 +16,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service
  * @Description: 标签业务逻辑层
- * @Date: 2019/7/6 0006 11:50
  **/
 @Service
 public class LabelServiceImpl implements LabelService {

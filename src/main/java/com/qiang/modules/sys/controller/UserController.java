@@ -16,11 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.controller
  * @Description: 用户管理
- * @Date: 2019/7/14 0014 16:05
  **/
 @RestController
 public class UserController {

@@ -7,13 +7,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.dao
- * @Description:
- * @Date: 2019/8/17 0017 19:10
- **/
+
 @Repository
 public interface CommentLikeDao extends BaseMapper<CommentLikesEntity> {
 

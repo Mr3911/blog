@@ -11,11 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
  * @Description: 注册
- * @Date: 2019/8/4 0004 12:20
  **/
 @RestController
 public class RegisterController {
@@ -108,7 +104,7 @@ public class RegisterController {
         if(s.equals("OK")){
             return BlogJSONResult.ok();
         }else{
-            return BlogJSONResult.errorMsg("获取验证码失败");
+           return BlogJSONResult.errorMsg("获取验证码失败");
         }
     }
 

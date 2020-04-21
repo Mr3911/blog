@@ -7,13 +7,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.dao
- * @Description:
- * @Date: 2019/8/16 0016 21:29
- **/
+
 @Repository
 public interface RegisterDao extends BaseMapper<UsersEntity> {
 

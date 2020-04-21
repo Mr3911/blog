@@ -7,11 +7,7 @@ import com.qiang.modules.sys.entity.ReportCommentEntity;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
  * @Description: 评论接口
- * @Date: 2019/7/22 0022 15:03
  **/
 public interface CommentService {
 

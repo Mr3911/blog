@@ -18,13 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.UUID;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service.impl
- * @Description:
- * @Date: 2019/8/9 0009 17:32
- **/
+
 @Service
 public class RegisterServiceImpl implements RegisterService {
 

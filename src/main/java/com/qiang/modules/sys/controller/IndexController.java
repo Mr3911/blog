@@ -14,11 +14,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
  * @Description: 首页
- * @Date: 2019/8/3 0003 10:43
  **/
 @RestController
 public class IndexController {

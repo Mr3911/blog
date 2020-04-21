@@ -13,11 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpSession;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
- * @Description:
- * @Date: 2019/8/4 0004 12:21
+ * Describe: 登陆
  **/
 @RestController
 public class LoginController {

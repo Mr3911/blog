@@ -14,11 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
  * @Description: 友链controller
- * @Date: 2019/8/19 0019 19:14
  **/
 @RestController
 public class FriendLinkController {

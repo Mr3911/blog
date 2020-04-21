@@ -19,11 +19,9 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.shiro
+
  * @Description: shiro认证授权
- * @Date: 2019/6/20 0020 13:02
+
  **/
 public class AuthRealm extends AuthorizingRealm {
 

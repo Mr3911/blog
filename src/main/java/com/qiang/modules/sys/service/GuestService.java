@@ -7,11 +7,7 @@ import com.qiang.modules.sys.entity.RepGuestEntity;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
  * @Description: 留言接口
- * @Date: 2019/7/24 0024 17:30
  **/
 public interface GuestService {
 

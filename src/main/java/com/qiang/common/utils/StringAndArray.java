@@ -3,8 +3,6 @@ package com.qiang.common.utils;
 import org.springframework.stereotype.Component;
 
 /**
- * @author: qiang
- * @Date: 2019/7/6 14:59
  * Describe: 字符串与字符串数组之间的转换
  */
 @Component

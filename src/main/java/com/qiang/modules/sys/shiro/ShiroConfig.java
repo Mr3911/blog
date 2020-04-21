@@ -25,11 +25,7 @@ import java.util.LinkedHashMap;
 import java.util.Properties;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.shiro
  * @Description: shiro配置文件
- * @Date: 2019/6/20 0020 13:24
  **/
 @Configuration
 public class ShiroConfig {

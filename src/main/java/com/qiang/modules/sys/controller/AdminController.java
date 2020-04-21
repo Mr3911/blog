@@ -14,11 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
  * @Description: 后台管理者controller
- * @Date: 2019/8/2 0002 17:53
  **/
 @RestController
 public class AdminController {

@@ -4,13 +4,7 @@ import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.Update;
 import org.springframework.stereotype.Repository;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.mapper
- * @Description:
- * @Date: 2019/8/8 0008 16:14
- **/
+
 @Repository
 public interface IndexDao {
 

@@ -13,11 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
  * @Description: 评论controller
- * @Date: 2019/7/21 0021 21:36
  **/
 @RestController
 public class CommentController {

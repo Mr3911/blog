@@ -2,13 +2,7 @@ package com.qiang.modules.sys.service;
 
 import com.qiang.modules.sys.entity.UsersEntity;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
- * @Description:
- * @Date: 2019/8/9 0009 17:30
- **/
+
 public interface RegisterService {
 
 

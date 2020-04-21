@@ -30,10 +30,10 @@ registerBtn.click(function () {
         $(".notice-box-phone-num").show();
     } else if (checkPhone(phone1)) {
         $(".notice-box-phone-exit").show();
-    } else if (yan1.length != 4) {
-        $(".notice-box-code").show();
-    } else if (!checkCode(yan1)) {
-        $(".notice-box-code").show();
+    // } else if (yan1.length != 4) {
+    //     $(".notice-box-code").show();
+/*    } else if (!checkCode(yan1)) {
+        $(".notice-box-code").show();*/
     } else if (username1.length == 0) {
         $(".notice-box-user").show();
     } else if (username1.toLowerCase().indexOf("admin") == 0 || username1.toLowerCase().indexOf("user") == 0) {

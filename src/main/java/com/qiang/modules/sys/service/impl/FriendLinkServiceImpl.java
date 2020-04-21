@@ -14,13 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service.impl
- * @Description:
- * @Date: 2019/8/19 0019 19:15
- **/
+
 @Service
 public class FriendLinkServiceImpl implements FriendLinkService {
 

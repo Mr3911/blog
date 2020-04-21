@@ -1,11 +1,7 @@
 package com.qiang.modules.sys.service;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
  * @Description: 网页信息
- * @Date: 2019/8/8 0008 16:09
  **/
 public interface IndexService {
 

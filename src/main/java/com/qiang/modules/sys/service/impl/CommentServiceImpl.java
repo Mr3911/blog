@@ -20,11 +20,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service.impl
  * @Description: 评论业务逻辑层
- * @Date: 2019/7/22 0022 15:04
  **/
 @Service
 public class CommentServiceImpl implements CommentService {

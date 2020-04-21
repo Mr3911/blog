@@ -8,11 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.common.config
  * @Description: 错误页面定制
- * @Date: 2019/9/8 0008 14:56
  **/
 @Configuration
 public class ErrorConfig {

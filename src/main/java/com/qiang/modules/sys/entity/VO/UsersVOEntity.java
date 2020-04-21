@@ -9,13 +9,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Set;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.entity.VO
- * @Description:
- * @Date: 2019/8/17 0017 11:36
- **/
+
 @Data
 @TableName(value = "users")
 public class UsersVOEntity implements Serializable {

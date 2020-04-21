@@ -8,13 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.dao
- * @Description:
- * @Date: 2019/8/19 0019 20:26
- **/
+
 @Repository
 public interface FriendlinkDao extends BaseMapper<FriendLinkEntity> {
 

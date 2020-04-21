@@ -11,11 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.controller
  * @Description: 标签云
- * @Date: 2019/7/8 0008 19:05
  **/
 @RestController
 @RequestMapping("/tag")

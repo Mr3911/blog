@@ -2,13 +2,6 @@ package com.qiang.modules.sys.service;
 
 import com.qiang.modules.sys.entity.VO.BlogMessageVOEntity;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
- * @Description:
- * @Date: 2019/8/17 0017 12:15
- **/
 public interface RedisService {
 
     /**

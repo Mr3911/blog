@@ -5,11 +5,7 @@ import java.util.Random;
 import java.util.Set;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.common.utils
  * @Description: 工具类
- * @Date: 2019/7/31 0031 18:41
  **/
 public class CommonUtils {
 

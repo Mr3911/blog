@@ -1,11 +1,7 @@
 package com.qiang.modules.sys.service;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
  * @Description: 定时任务存储信息
- * @Date: 2019/8/9 0009 16:31
  **/
 public interface ScheduledService {
 

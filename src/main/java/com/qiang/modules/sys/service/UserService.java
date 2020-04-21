@@ -6,11 +6,6 @@ import com.qiang.modules.sys.entity.VO.UsersVOEntity;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang
- * @Description:
- * @Date: 2019/6/20 0020 11:25
  **/
 public interface UserService {
 

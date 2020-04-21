@@ -3,11 +3,7 @@ package com.qiang.modules.sys.service;
 import com.qiang.modules.sys.entity.VO.BlogMessageVOEntity;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service
  * @Description: 博客发布接口
- * @Date: 2019/7/6 0006 15:05
  **/
 public interface BlogService {
 

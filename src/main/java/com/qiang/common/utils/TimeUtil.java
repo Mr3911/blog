@@ -6,11 +6,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.common
  * @Description: 时间工具
- * @Date: 2019/7/4 0004 11:05
  **/
 public class TimeUtil {
 

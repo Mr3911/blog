@@ -6,11 +6,7 @@ import com.qiang.modules.sys.entity.VO.BlogMessageVOEntity;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
  * @Description: 异步任务(数据库和redis保持一致)
- * @Date: 2019/8/9 0009 15:21
  **/
 public interface AsyncService {
 

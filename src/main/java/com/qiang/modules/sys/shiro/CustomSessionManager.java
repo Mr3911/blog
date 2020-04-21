@@ -9,11 +9,7 @@ import javax.servlet.ServletResponse;
 import java.io.Serializable;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.config
  * @Description: shiro中sessionManager自定义会话管理
- * @Date: 2019/7/28 0028 21:48
  **/
 public class CustomSessionManager extends DefaultWebSessionManager {
 

@@ -1,11 +1,7 @@
 package com.qiang.common.utils;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.controller
  * @Description: markdown截取文章生成摘要
- * @Date: 2019/7/4 0004 11:05
  **/
 public class BuildArticleTabloidUtil {
 

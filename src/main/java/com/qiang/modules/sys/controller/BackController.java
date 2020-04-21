@@ -15,8 +15,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.UnsupportedEncodingException;
 
 /**
- * @author: qiang
- * @Date: 2019/7/06 19:24
  * Describe: 所有页面跳转
  */
 @Controller
@@ -95,6 +93,7 @@ public class BackController {
         if(StringUtils.isEmpty(url)){
             return "login";
         }
+        //登陆 注册 找回密码
         if (!url.contains("register") && !url.contains("findPwd") && !url.contains("login")) {
             //保存跳转页面的url
             request.getSession().setAttribute("lastUrl", request.getHeader("Referer"));

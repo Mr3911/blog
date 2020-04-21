@@ -19,11 +19,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service.impl
  * @Description: 首页操作业务逻辑层
- * @Date: 2019/7/8 0008 15:47
  **/
 @Service
 public class ArticleServiceImpl implements ArticleService {

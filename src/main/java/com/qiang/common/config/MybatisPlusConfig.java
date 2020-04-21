@@ -6,13 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.mp.qiang.config
- * @Description:
- * @Date: 2019/7/26 0026 11:02
- **/
+
 //Spring boot方式
 @EnableTransactionManagement
 @Configuration

@@ -3,11 +3,7 @@ package com.qiang.modules.sys.service;
 import com.qiang.common.utils.PagedResult;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service
  * @Description: 首页操作业务逻辑接口
- * @Date: 2019/7/8 0008 15:45
  **/
 public interface ArticleService {
 

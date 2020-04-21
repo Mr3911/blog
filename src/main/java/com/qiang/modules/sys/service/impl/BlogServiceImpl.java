@@ -15,11 +15,7 @@ import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service.impl
  * @Description: 博客业务逻辑层
- * @Date: 2019/7/6 0006 15:07
  **/
 @Service
 public class BlogServiceImpl implements BlogService {

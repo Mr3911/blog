@@ -10,13 +10,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service.impl
- * @Description:
- * @Date: 2019/8/9 0009 16:35
- **/
+
 @Service
 public class ScheduledServiceImpl implements ScheduledService {
 

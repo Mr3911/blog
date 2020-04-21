@@ -13,11 +13,8 @@ import org.springframework.stereotype.Service;
 import java.io.IOException;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.service
  * @Description: 腾讯短信服务类
- * @Date: 2019/8/4 0004 11:02
+ *
  **/
 @Service
 public class SMSService {

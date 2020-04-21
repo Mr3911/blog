@@ -4,13 +4,7 @@ import com.qiang.modules.sys.entity.*;
 
 import java.util.List;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service
- * @Description:
- * @Date: 2019/8/19 0019 19:14
- **/
+
 public interface FriendLinkService {
 
     /**

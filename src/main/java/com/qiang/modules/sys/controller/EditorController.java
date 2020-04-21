@@ -18,11 +18,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.controller
  * @Description: 编辑文章
- * @Date: 2019/7/4 0004 11:05
  **/
 @RestController
 public class EditorController {

@@ -9,13 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.service.impl
- * @Description:
- * @Date: 2019/8/8 0008 16:13
- **/
+
 @Service
 public class IndexServiceImpl implements IndexService {
 

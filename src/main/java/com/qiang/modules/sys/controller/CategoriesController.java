@@ -10,11 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.controller
  * @Description: 文章归类
- * @Date: 2019/7/10 0010 16:42
  **/
 @RestController
 public class CategoriesController {

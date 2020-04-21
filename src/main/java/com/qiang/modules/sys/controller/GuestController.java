@@ -16,11 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @Author: qiang
- * @ProjectName: adminsystem
- * @Package: com.qiang.modules.sys.controller
  * @Description: 留言controller
- * @Date: 2019/7/24 0024 17:00
  **/
 @RestController
 public class GuestController {
